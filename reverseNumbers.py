@@ -1,12 +1,10 @@
 def reverse(number) :
-    count = 1
+    count = 0
     digits = 1
     temp = number
 
     while temp > 0 :
         temp -= (temp % (10 ** digits))
-        if temp == 0 :
-            break
         digits += 1
 
     newNum = 0
