@@ -1,0 +1,9 @@
+	house1	house2	house3	house4
+store1	8.18	10.36	9.27	6.55
+store2	10.91	7.64	10.36	6.00
+store3	8.73	12.00	10.91	10.36
+
+	apartment1	apartment2	apartment3	
+store1	8.40	6.34	4.97
+store2	8.40	4.29	6.00
+store3	3.60	5.66	5.31

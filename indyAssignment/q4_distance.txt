@@ -1,0 +1,4 @@
+	house1	house2	house3	house4	apartment1	apartment2	apartment3
+store1	9	13	11	6	16	10	6
+store2	14	8	13	5	16	4	9
+store3	10	16	14	13	2	8	7
